@@ -170,9 +170,12 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-#Jekyll
+# Jekyll
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Jupyter Notebooks
+_notebooks
