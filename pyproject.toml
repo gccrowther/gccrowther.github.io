@@ -5,13 +5,20 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "cudf-cu12>=24.12.0",
+    "cupy-cuda12x>=13.3.0",
     "dask-expr>=1.1.21",
     "datashader>=0.16.3",
+    "debugpy>=1.8.11",
     "holoviews>=1.20.0",
     "jupyterlab>=4.3.4",
+    "node>=1.2.2",
+    "npm>=0.1.1",
     "numba>=0.60.0",
+    "numba-cuda>=0.0.17.1",
     "numpy>=2.0.2",
     "pandas>=2.2.3",
     "pyparsing>=3.2.1",
+    "pyright>=1.1.392.post0",
     "scipy>=1.15.1",
 ]
