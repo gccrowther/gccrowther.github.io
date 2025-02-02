@@ -178,4 +178,4 @@ _site
 vendor
 
 # Jupyter Notebooks
-_notebooks
+#_notebooks
